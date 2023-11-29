@@ -14,10 +14,13 @@ Mezun olduktan sonra yazılım endüstrisine olan ilgi ve tutkum her geçen gün
 
 Becerilerimi geliştirme konusundaki kararlılığım ve sürekli kendimi geliştirme tutkum beni ileriye taşıyor.
 
-Bana umutkaraytu20@gmail.com adresinden ulaşabilirsiniz. Sosyal Medya Hesaplarım:
+Bana umutkaraytu20@gmail.com adresinden ulaşabilirsiniz
+Sosyal Medya Hesaplarım:
 
 LinkedIn:(https://www.linkedin.com/in/umut-karaytu-617097269/)
-Kullandığım Diller ve Araçlar: Bootstrap, CSS3, Git, HTML5, JavaScript, React, Tailwind, TypeScript, Next.js
+
+Kullandığım Diller ve Araçlar:
+Bootstrap, CSS3, Git, HTML5, JavaScript, React, Tailwind, TypeScript, Next.js
 
 İletişime geçmekten mutluluk duyarım,
 
