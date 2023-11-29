@@ -15,7 +15,7 @@ Mezun olduktan sonra yazılım endüstrisine olan ilgi ve tutkum her geçen gün
 Becerilerimi geliştirme konusundaki kararlılığım ve sürekli kendimi geliştirme tutkum beni ileriye taşıyor.
 
 Bana umutkaraytu20@gmail.com adresinden ulaşabilirsiniz
-Sosyal Medya Hesaplarım:
+Sosyal Medya Hesaplarım: </br>
 
 LinkedIn:(https://www.linkedin.com/in/umut-karaytu-617097269/)
 
