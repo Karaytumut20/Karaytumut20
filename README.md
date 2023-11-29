@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm UMUT KARAYTU</h1>
 <h3 align="center">JR FRONT-END DEVELOPER</h3>
