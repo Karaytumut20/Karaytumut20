@@ -10,7 +10,7 @@
 
 Ben Umut çocukluğumdan beri bilgisayarlar ve teknolojiye derin bir ilgi duyan biriyim. Üniversitede Elektrik bölümünde okumaya başladığımda, bilgisayarlar ve teknolojiye olan bu ilgimin zamanla hem bir meslek hem de derin bir tutku haline geleceğini öngörememiştim.
 
-Mezun olduktan sonra yazılım endüstrisine olan ilgi ve tutkum her geçen gün arttı. Kendi başıma yazılım geliştirmeyi öğrenmeye başladım ve bu tutku zamanla hayatımın odak noktası haline geldi. Yazılım geliştirmeye sıfırdan başladım. Yazılım dünyasındaki ilerlememi desteklemek için İstanbul Üniversitesi'nde İşletme eğitimi almaktayım, kendi yazılım projelerimi pazarlama konusunda becerilerimi geliştirmeyi hedefledim. Ayrıca teknik bilgilerimi artırmak amacıyla Bilgisayar Programcılığı bölümünde de eğitimime devam ettim.
+Mezun olduktan sonra yazılım endüstrisine olan ilgi ve tutkum her geçen gün arttı. Kendi başıma yazılım geliştirmeyi öğrenmeye başladım ve bu tutku zamanla hayatımın odak noktası haline geldi. Yazılım geliştirmeye sıfırdan başladım. Yazılım dünyasındaki ilerlememi desteklemek için İstanbul Üniversitesi'nde İşletme eğitimi almaktayım, kendi yazılım projelerimi pazarlama konusunda becerilerimi geliştirmeyi hedefledim. Ayrıca teknik bilgilerimi artırmak amacıyla Anadolu Üniversitesi'nde Bilgisayar Programcılığı bölümünde de eğitimime devam ediyorum.
 
 Becerilerimi geliştirme konusundaki kararlılığım ve sürekli kendimi geliştirme tutkum beni ileriye taşıyor.
 
