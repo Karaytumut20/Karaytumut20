@@ -8,7 +8,6 @@
 </p>
 
 
-Becerilerimi geliştirme konusundaki kararlılığım ve sürekli kendimi geliştirme tutkum beni ileriye taşıyor.
 
 Bana umutkaraytu20@gmail.com adresinden ulaşabilirsiniz
 Sosyal Medya Hesaplarım: </br>
